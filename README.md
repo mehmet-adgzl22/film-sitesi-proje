@@ -5,12 +5,20 @@
 
 # Proje Özellikleri
 
-
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+ 
+</ul>
 # Projede Kullanılan Diller ve Araçlar
 <ul>
   <li>Html</li>
   <li>Css</li>
+  <li> Javascript</li>
   <li>Visual Studio Code</li>
+ 
 </ul>
 
 # Proje Bağlantı Linki
