@@ -6,6 +6,15 @@
 # Proje Özellikleri
 
 
+# Projede Kullanılan Diller ve Araçlar
+<ul>
+  <li>Html</li>
+  <li>Css</li>
+  <li>Visual Studio Code</li>
+</ul>
+
+# Proje Bağlantı Linki
+https://film-sitesi-projem.netlify.app/
 
 
 
