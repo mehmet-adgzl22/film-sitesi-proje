@@ -12,7 +12,9 @@
   <li></li>
  
 </ul>
+
 # Projede Kullanılan Diller ve Araçlar
+
 <ul>
   <li>Html</li>
   <li>Css</li>
