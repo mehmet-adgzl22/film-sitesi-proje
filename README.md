@@ -1,8 +1,3 @@
-# film-sitesi-proje
-
-
-
-
 # Proje Özellikleri
 
 <ul>
