@@ -1,12 +1,5 @@
 # Proje Özellikleri
-
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
- 
-</ul>
+Bu projede Html, Css ve JavaScrıpt kullanılarak bir film sitesi hazırlanmıştır.
 
 # Projede Kullanılan Diller ve Araçlar
 
