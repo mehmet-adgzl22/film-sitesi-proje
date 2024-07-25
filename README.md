@@ -12,7 +12,7 @@ Bu projede Html, Css ve JavaScrıpt kullanılarak bir film sitesi hazırlanmış
 </ul>
 
 # Proje Bağlantı Linki
-https://film-sitesi-projem.netlify.app/
+https://film-sitesi-hs11.netlify.app
 
 
 
